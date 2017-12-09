@@ -1,0 +1,34 @@
+[Header]
+Sprites = assets/story/design/1.sff
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = ""
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = ""
+Text = ""
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = ""
+Text = ""
+
+[Change]
+Type = design
+Delta = 1
+
+[Hack]

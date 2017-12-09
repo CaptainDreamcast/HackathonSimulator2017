@@ -1,0 +1,22 @@
+[Header]
+Sprites = assets/story/GAMEOVER.sff
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = ""
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = ""
+Text = ""
+
+[Title]

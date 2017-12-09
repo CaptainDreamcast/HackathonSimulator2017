@@ -1,2 +1,2 @@
-# HackathonSimulator2017
-Something resembling a hackathon simulation for Sega Dreamcast.
+# Hackathon simulator
+Something resembling a simulation game for Sega Dreamcast.
